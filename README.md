@@ -35,7 +35,7 @@ Here are a couple of pictures to better show the insides:
 The main speaker parts after gluing together and inserting threaded inserts:
 ![The main speaker parts after gluing them together](images/20221212_093834.jpg)
 
-The housing, speakers and amplifier (and masking tape aound the speaker mount):
+The housing, speakers and amplifier (and masking tape around the speaker mount):
 ![The housing, speakers and amplifier](images/20220130_214815.jpg)
 
 Internal power wiring:
