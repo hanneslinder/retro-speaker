@@ -42,4 +42,4 @@ Internal power wiring:
 ![internal power wiring](images/20220130_214710.jpg)
 
 Speaker with detached grill:
-![internal power wiring](images/20220131_204650.jpg.jpg)
+![internal power wiring](images/20220131_204650.jpg)
