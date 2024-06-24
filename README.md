@@ -43,3 +43,6 @@ Internal power wiring:
 
 Speaker with detached grill:
 ![internal power wiring](images/20220131_204650.jpg)
+
+Fusion 360 model
+![Fusion 360 model](images/2024-06-24_20-39.png)
